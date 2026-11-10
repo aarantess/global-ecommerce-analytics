@@ -103,7 +103,8 @@ A aplicação apresenta quatro indicadores principais, visualizações por país
 
 Os filtros permitem selecionar países e categorias, atualizando as métricas e os gráficos conforme o recorte escolhido.
 
-**Link da aplicação:** a inserir após a publicação no Streamlit Community Cloud.
+**Link da aplicação:** https://global-ecommerce-analytics.streamlit.app/
+ 
 
 ## 8. Tecnologias utilizadas
 
@@ -222,8 +223,8 @@ Projeto acadêmico desenvolvido individualmente para aplicação de conhecimento
 
 ## 15. Links de entrega
 
-- **Repositório pessoal:** a inserir.
-- **Dashboard publicado:** a inserir.
+- **Repositório pessoal:** https://github.com/aarantess/global-ecommerce-analytics
+- **Dashboard publicado:** https://global-ecommerce-analytics.streamlit.app/
 - **Repositório oficial da turma:** a inserir.
 - **Quadro de tarefas:** a inserir, se aplicável.
 - **Publicação e vídeo explicativo:** a inserir.
